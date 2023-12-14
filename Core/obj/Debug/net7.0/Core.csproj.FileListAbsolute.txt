@@ -1,0 +1,12 @@
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/bin/Debug/net7.0/Core.deps.json
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/bin/Debug/net7.0/Core.dll
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/bin/Debug/net7.0/Core.pdb
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.dll
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/refint/Core.dll
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/Core.pdb
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/obj/Debug/net7.0/ref/Core.dll

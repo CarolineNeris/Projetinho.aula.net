@@ -30,3 +30,5 @@
 /home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/TodoApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/TodoApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
 /home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/TodoApi/obj/Debug/net7.0/TodoApi.csproj.CopyComplete
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/TodoApi/bin/Debug/net7.0/Core.dll
+/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/TodoApi/bin/Debug/net7.0/Core.pdb
