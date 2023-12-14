@@ -268,6 +268,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
       }
     }
   },
@@ -651,10 +661,16 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Core >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 7.0.14",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.14"
     ]
@@ -683,7 +699,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/Core.csproj": {
+              "projectPath": "/home/ana-caroline-fonseca/Documentos/teste/Projetinho.aula.net/Core/Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
